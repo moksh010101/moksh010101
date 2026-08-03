@@ -76,8 +76,8 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- LinkedIn: Add your LinkedIn URL
+- GitHub: https:https://github.com/moksh010101
+- LinkedIn: https://www.linkedin.com/in/mokshsprofile/
 
 ---
 
